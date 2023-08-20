@@ -14,16 +14,16 @@ Dr. Chen Zhao\
 Assistant Professor\
 Department of Computer Science, Baylor University\
 Office: Hankamer 330.39\
-Email: chen_zhao@baylor.edu (Important: When emailing, please add **[DSC 2350]** at the beginning of the subject line)\
-Office Hours: Mondays and Wednesdays 2:00 pm - 3:30 pm (Hankamer 330.39 OR via Microsoft Teams)\
-Homepage: https://charliezhaoyinpeng.github.io/homepage
+* Email: chen_zhao@baylor.edu (Important: When emailing, please add **[DSC 2350]** at the beginning of the subject line)\
+* Office Hours: Mondays and Wednesdays 2:00 pm - 3:30 pm (Hankamer 330.39 OR via Microsoft Teams)\
+* Homepage: https://charliezhaoyinpeng.github.io/homepage
 
 ## Teaching Assistant:
 Pratik Siwakoti\
 Graduate Assistant\
-Email: pratik_siwakoti1@baylor.edu\
-Office Hours: TBA (via Microsoft Teams)\
-Duties: Gradings (Homeworks, Quizzes, Exams)
+* Email: pratik_siwakoti1@baylor.edu\
+* Office Hours: TBA (via Microsoft Teams)\
+* Duties: Gradings (Homeworks, Quizzes, Exams)
 
 ## Course Description:
 An introduction to the foundations of discrete structures as they apply to data science, focusing on providing a solid theoretical foundation for further work. Topics include sets, ordered structures, graph and trees, functions, proof techniques, number systems, logic, Boolean algebra, etc.
