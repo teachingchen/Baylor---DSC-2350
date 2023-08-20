@@ -51,7 +51,7 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 
 ## Tentative Course Outline:
 
-| Lectures  | Topic                                                                                   	    | Deliverables               	| Notes 	|
+| Lectures  | Topic                                                                                   	    | Deliverables               	| Comments 	|
 |---------	|------------------------------------------------------------------------------------------	    |---------------------------	|-------	|
 | 1       	| Course Introduction                                                                     	    |                             |       	|
 | 2       	| Sets, Set Relations, and Set Functions  	                                                    |                	            |       	|
