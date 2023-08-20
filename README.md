@@ -39,7 +39,7 @@ This course is A-E graded, and the grades are determined based on graded assignm
 * Attendance: 5% 
 * Bonus: 10% (Extra on top of the final grade)
 
-Your final grade will be based on a scale of 100 points:
+Your final grade will be based on a scale of 100 points:\
 | A      | A-    | B+    | B     | B-    | C+    | C     | C-    | D+    | D     | D-    | E    |
 |--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|------|
 | 100-95 | 94-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 69-67 | 66-63 | 62-60 | 59-0 |
