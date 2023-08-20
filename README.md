@@ -13,16 +13,16 @@ Location: Cashion Academic Center, C202
 Dr. Chen Zhao\
 Assistant Professor\
 Department of Computer Science, Baylor University\
-Office: Hankamer 330.39\
-* Email: chen_zhao@baylor.edu (Important: When emailing, please add **[DSC 2350]** at the beginning of the subject line)\
-* Office Hours: Mondays and Wednesdays 2:00 pm - 3:30 pm (Hankamer 330.39 OR via Microsoft Teams)\
+Office: Hankamer 330.39
+* Email: chen_zhao@baylor.edu (Important: When emailing, please add **[DSC 2350]** at the beginning of the subject line)
+* Office Hours: Mondays and Wednesdays 2:00 pm - 3:30 pm (Hankamer 330.39 OR via Microsoft Teams)
 * Homepage: https://charliezhaoyinpeng.github.io/homepage
 
 ## Teaching Assistant:
 Pratik Siwakoti\
-Graduate Assistant\
-* Email: pratik_siwakoti1@baylor.edu\
-* Office Hours: TBA (via Microsoft Teams)\
+Graduate Assistant
+* Email: pratik_siwakoti1@baylor.edu
+* Office Hours: TBA (via Microsoft Teams)
 * Duties: Gradings (Homeworks, Quizzes, Exams)
 
 ## Course Description:
