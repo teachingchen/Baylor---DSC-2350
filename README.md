@@ -33,10 +33,10 @@ C or better in CSI 1402 or concurrent enrollment; MTH 1321 or concurrent enrollm
 
 ## Requirements and Grading: 
 This course is A-E graded, and the grades are determined based on graded assignments:\
-* Exams: 40% \
-* Homework Assignments: 40% \
-* Quizzes: 15% \
-* Attendance: 5% \
+* Exams: 40% 
+* Homework Assignments: 40%
+* Quizzes: 15% 
+* Attendance: 5% 
 * Bonus: 10% (Extra on top of the final grade)
 
 Your final grade will be based on a scale of 100 points:
