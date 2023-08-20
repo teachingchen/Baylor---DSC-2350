@@ -29,7 +29,7 @@ Duties: Gradings (Homeworks, Quizzes, Exams)
 An introduction to the foundations of discrete structures as they apply to data science, focusing on providing a solid theoretical foundation for further work. Topics include sets, ordered structures, graph and trees, functions, proof techniques, number systems, logic, Boolean algebra, etc.
 
 ## Prerequisites:
-C or better in CSI 1402 or concurrent enrollment; MTH 1321 or concurrent enrollment.
+C or better in CSI 1402 (Introduction to Programming II) or concurrent enrollment; MTH 1321 (Calculus I) or concurrent enrollment.
 
 ## Requirements and Grading: 
 This course is A-E graded, and the grades are determined based on graded assignments:\
