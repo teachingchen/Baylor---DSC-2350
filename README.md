@@ -1,4 +1,4 @@
-# DSC 2350
+# DSC 2350 - Discrete Structure for Data Science
 
 ```
 Semester: Fall 2023 
