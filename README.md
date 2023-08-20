@@ -51,22 +51,22 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 
 ## Tentative Course Outline:
 
-| Lectures  | Topic                                                                                   	    | Deliverables               	| Comments 	|
-|---------	|------------------------------------------------------------------------------------------	    |---------------------------	|-------	|
-| 1       	| Course Introduction                                                                     	    |                             |       	|
-| 2       	| Sets, Set Relations, and Set Functions  	                                                    |                	            |       	|
-| 3       	| Functions                                                                    	                |                     	|       	|
-| 4       	| Counting Theory                                                                           	  |                       	  |       	|
+| Lectures  | Topics                                                                                   	| Deliverables               	| Comments 	|
+|---------	|------------------------------------------------------------------------------------------	|---------------------------	|-------	|
+| 1       	| Course Introduction                                                                     	|                             |       	|
+| 2       	| Sets, Set Relations, and Set Functions  	                                                |                	            |       	|
+| 3       	| Functions                                                                    	            |                     	|       	|
+| 4       	| Counting Theory                                                                               |                       	  |       	|
 | 5       	| Mathematical Logic  	                                                                        |                          	  |       	|
-| 6       	| Mathematical Induction and Proofs                                             	              |                  	    |       	|
-| 7       	| Probability                                            	                                      |                 	    |       	|
-| 8       	| Review of Python                                                             	                |                      	|       	|
-| 9       	| Sorting Algorithms                                                           	                |                     	|       	|
-| 10       	| Lists                                                                        	                |                      	|       	|
-| 11       	| Stacks and Queues                                                            	                |                      	|       	|
-| 12       	| Recursion                                                                                	    |                    	        |       	|
+| 6       	| Mathematical Induction and Proofs                                             	            |                  	    |       	|
+| 7       	| Probability                                            	                                    |                 	    |       	|
+| 8       	| Review of Python                                                             	            |                      	|       	|
+| 9       	| Sorting Algorithms                                                           	            |                     	|       	|
+| 10       	| Lists                                                                        	            |                      	|       	|
+| 11       	| Stacks and Queues                                                            	            |                      	|       	|
+| 12       	| Recursion                                                                                	|                    	        |       	|
 | 13       	| Graphs                                                  	                                    |                    	        |       	|
-| 14       	| Trees                                                 	                                      |               	        |       	|
+| 14       	| Trees                                                 	                                    |               	        |       	|
       
 
 
