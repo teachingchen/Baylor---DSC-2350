@@ -17,7 +17,7 @@ Assistant Professor\
 Department of Computer Science, Baylor University\
 Office: Hankamer 330.39\
 Email: chen_zhao@baylor.edu\
-Office Hours: Mondays 1:00pm - 3:30pm (Hankamer 330.39 OR via Microsoft Teams)
+Office Hours: Mondays 1:00pm - 3:30pm (Hankamer 330.39 OR via Microsoft Teams)\
 Homepage: https://charliezhaoyinpeng.github.io/homepage
 
 ## Teaching Assistant
