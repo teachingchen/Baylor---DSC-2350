@@ -14,8 +14,7 @@ Contact: chen_zhao@baylor.edu (Important: When emailing, please add **[DSC 2350]
 ## Instructor:
 Dr. Chen Zhao\
 Assistant Professor\
-Department of Computer Science\
-Baylor University\
+Department of Computer Science, Baylor University\
 Office: Hankamer 330.39\
 Email: chen_zhao@baylor.edu\
 Office Hours: Mondays 1:00pm - 3:30pm (Hankamer 330.39 OR via Microsoft Teams)
