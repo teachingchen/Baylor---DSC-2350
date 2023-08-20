@@ -54,19 +54,20 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 | Lectures  | Topic                                                                                   	    | Deliverables               	| Notes 	|
 |---------	|------------------------------------------------------------------------------------------	    |---------------------------	|-------	|
 | 1       	| Course Introduction                                                                     	    |                             |       	|
-| 2       	| Introduction to Machine Learning, Algorithms, How to become a machine learning engineer  	    |                	            |       	|
-| 3       	| Programming with Python, Writing simple programs, Variables, expressions and statements I   	|     HW 1                 	  |       	|
-| 4       	| Programming with Python, Writing simple programs, Variables, expressions and statements II  	|                          	  |       	|
-| 5       	| Conditional execution, Functions and Lists I                                             	    |     Quiz 1             	    |       	|
-| 6       	| Conditional execution, Functions and Lists II                                            	    |     HW 2              	    |       	|
-| 7       	| Midterm                                                                                 	    |                    	        |       	|
-| 8       	| Loops and iterations and Dictionaries I                                                  	    |                    	        |       	|
-| 9       	| Loops and iterations and Dictionaries II                                                 	    |     HW 3          	        |       	|
-| 10       	| Classes I                                                                                	    |     Quiz 2                 	|       	|
-| 11       	| Classes II                                                                               	    |     HW 4                   	|       	|
-| 12       	| File Input/Output                                                                             |     Quiz 3           	      |       	|
-| 13       	| File Input/Output                                                                             |     HW 5              	    |       	|
-| 14       	| TBD              
+| 2       	| Sets, Set Relations, and Set Functions  	                                                    |                	            |       	|
+| 3       	| Functions                                                                    	                |                     	|       	|
+| 4       	| Counting Theory                                                                           	  |                       	  |       	|
+| 5       	| Mathematical Logic  	                                                                        |                          	  |       	|
+| 6       	| Mathematical Induction and Proofs                                             	              |                  	    |       	|
+| 7       	| Probability                                            	                                      |                 	    |       	|
+| 8       	| Review of Python                                                             	                |                      	|       	|
+| 9       	| Sorting Algorithms                                                           	                |                     	|       	|
+| 10       	| Lists                                                                        	                |                      	|       	|
+| 11       	| Stacks and Queues                                                            	                |                      	|       	|
+| 12       	| Recursion                                                                                	    |                    	        |       	|
+| 13       	| Graphs                                                  	                                    |                    	        |       	|
+| 14       	| Trees                                                 	                                      |               	        |       	|
+      
 
 
 
