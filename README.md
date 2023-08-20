@@ -49,6 +49,25 @@ Your final grade will be based on a scale of 100 points:
 No makeup exams and quizzes will be given. Homeworks are due by midnight of the due date and are submitted on Canvas. Assignments are graded on a scale of 0 – 100, with a 10 points deduction per day late. Homeworks are not accepted and graded zero more than three days late.
 
 
+## Tentative Course Outline:
+
+| Lectures  | Topic                                                                                   	    | Deliverables               	| Notes 	|
+|---------	|------------------------------------------------------------------------------------------	    |---------------------------	|-------	|
+| 1       	| Course Introduction                                                                     	    |                             |       	|
+| 2       	| Introduction to Machine Learning, Algorithms, How to become a machine learning engineer  	    |                	            |       	|
+| 3       	| Programming with Python, Writing simple programs, Variables, expressions and statements I   	|     HW 1                 	  |       	|
+| 4       	| Programming with Python, Writing simple programs, Variables, expressions and statements II  	|                          	  |       	|
+| 5       	| Conditional execution, Functions and Lists I                                             	    |     Quiz 1             	    |       	|
+| 6       	| Conditional execution, Functions and Lists II                                            	    |     HW 2              	    |       	|
+| 7       	| Midterm                                                                                 	    |                    	        |       	|
+| 8       	| Loops and iterations and Dictionaries I                                                  	    |                    	        |       	|
+| 9       	| Loops and iterations and Dictionaries II                                                 	    |     HW 3          	        |       	|
+| 10       	| Classes I                                                                                	    |     Quiz 2                 	|       	|
+| 11       	| Classes II                                                                               	    |     HW 4                   	|       	|
+| 12       	| File Input/Output                                                                             |     Quiz 3           	      |       	|
+| 13       	| File Input/Output                                                                             |     HW 5              	    |       	|
+| 14       	| TBD              
+
 
 
 
