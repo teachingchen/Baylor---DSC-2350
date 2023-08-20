@@ -32,7 +32,7 @@ An introduction to the foundations of discrete structures as they apply to data 
 C or better in CSI 1402 (Introduction to Programming II) or concurrent enrollment; MTH 1321 (Calculus I) or concurrent enrollment.
 
 ## Requirements and Grading: 
-This course is A-E graded, and the grades are determined based on graded assignments:\
+This course is A-E graded, and the grades are determined based on graded assignments:
 * Exams: 40% 
 * Homework Assignments: 40%
 * Quizzes: 15% 
