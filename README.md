@@ -1,4 +1,4 @@
-# DSC_2350
+# DSC 2350 (Fall 2023)
 Discrete Structures for DS
 
 Department of Computer Science
