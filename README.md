@@ -44,6 +44,42 @@ Your final grade will be based on a scale of 100 points:
 |--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|------|
 | 100-95 | 94-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 69-67 | 66-63 | 62-60 | 59-0 |
 
+## Missed Exams, Homeworks, and Quizzes:
+No makeup exams and quizzes will be given. Homeworks are due by midnight of the due date and are submitted on Canvas. Assignments are graded on a scale of 0 – 100, with a 10 points deduction per day late. Homeworks are not accepted and graded zero more than three days late.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
