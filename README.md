@@ -2,7 +2,7 @@
 
 ```
 Semester: Fall 2023 
-Time: Mondays, Wednesdays, Fridays 9:05am - 9:55am from 08/21/2023 to 12/13/2023
+Time: Mondays, Wednesdays, Fridays 9:05 am - 9:55 am from 08/21/2023 to 12/13/2023
 Location: Cashion Academic Center, C202
 ```
 
@@ -26,7 +26,7 @@ Graduate Assistant
 * Duties: Gradings (Homeworks, Quizzes, Exams)
 
 ## Course Description:
-An introduction to the foundations of discrete structures as they apply to data science, focusing on providing a solid theoretical foundation for further work. Topics include sets, ordered structures, graph and trees, functions, proof techniques, number systems, logic, Boolean algebra, etc.
+An introduction to the foundations of discrete structures as they apply to data science, focusing on providing a solid theoretical foundation for further work. Topics include sets, ordered structures, graphs and trees, functions, proof techniques, number systems, logic, Boolean algebra, etc.
 
 ## Prerequisites:
 C or better in CSI 1402 (Introduction to Programming II) or concurrent enrollment; MTH 1321 (Calculus I) or concurrent enrollment.
