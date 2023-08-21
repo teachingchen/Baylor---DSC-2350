@@ -35,6 +35,12 @@ C or better in CSI 1402 (Introduction to Programming II) or concurrent enrollmen
 This course is A-E graded, and the grades are determined based on graded assignments:
 * Exams: 40% 
 * Homework Assignments: 40%
+  ** For each homework, you can submit your answers up to 2 times.
+  ** First submission: Answer at least 50% of questions correctly.
+  ** One chance to make corrections.
+  ** The late submission policy is applied on the first submission.
+  ** After the first submission, you have one week to upload the second submission.
+  ** Grades are subject to the second submission.
 * Quizzes: 15% 
 * Attendance: 5% (Class attendance is required, refer to [here](https://rb.gy/6alrf))
 * Bonus: 10% (Extra on top of the final grade)
@@ -75,18 +81,14 @@ Plagiarism or any form of cheating involves a breach of student-teacher trust. T
 ## Use of Artificial Intelligence:
 All assignments should be your original work and should not be produced in part or in total with the assistance of artificial intelligence (for example, ChatGPT, Grammarly, or some other resource). Use of artificial intelligence without my explicit permission constitutes a violation of the Honor Code at Baylor University.
 
-## Equity, Civil Rights, and Title IX:
-Baylor University does not tolerate unlawful harassment or discrimination on the basis of sex, gender, race, color, disability, national origin, ancestry, age (over 40), citizenship, genetic information or the refusal to submit to a genetic test, past, current, or prospective service in the uniformed services, or any other characteristic protected under applicable federal, Texas, or local law (collectively referred to as Protected Characteristics).
+## Students Needing Accommodations:
+Any student who needs academic accommodations related to a documented disability should inform me immediately at the beginning of the semester. You are required to obtain appropriate documentation and information regarding your accommodations from the Office of Access and Learning Accommodation (OALA). Stop by the first floor of Sid Richardson, East Wing in the Paul L. Foster Success Center or call (254) 710-3605 or email OALA@baylor.edu.
 
-If you or someone you know would like help related to an experience involving: 
-* Sexual or gender-based harassment, sexual assault, sexual exploitation, stalking, intimate partner violence, or retaliation for reporting one of these types of prohibited conduct, please visit [https://titleix.web.baylor.edu](https://titleix.web.baylor.edu) or contact us at (254) 710-8454, or TitleIX_Coordinator@baylor.edu.
-* Harassment (excluding those issues listed in #1) or adverse action based on Protected Characteristics, please visit [www.baylor.edu/civilrights](www.baylor.edu/civilrights), or contact us at (254) 710-7100 or Civil_Rights@baylor.edu.
+## Academic Success:
+I believe every student who has been admitted to Baylor can be successful, and I want to partner with you to help you thrive academically. Be sure to take advantage of the many resources available for academic success, including coming to see me during my office hours. Students who regularly utilize the great resources in the Paul L. Foster Success Center such as tutoring, Learning Lab, and Academic Mentoring are among my most successful students. If your academic performance in this class is substandard, I will submit an Academic Progress Report to the Success Center so that the team of coordinated care professionals can ensure that you get the help you need.
 
-The Office of Equity and Title IX understands the sensitive nature of these situations and can provide information about available on- and off-campus resources, such as counseling and psychological services, medical treatment, academic support, university housing, and other forms of assistance that may be available. Staff members at the office can also explain your rights and procedural options. You will not be required to share your experience. If you or someone you know feels unsafe or may be in imminent danger, please call the Baylor Police Department (254-710-2222) or Waco Police Department (9-1-1) immediately.
+## University Writing Center:
 
-Except for Confidential Resources, all University Employees are designated Responsible Employees and thereby mandatory reporters of potential sexual and interpersonal misconduct violations. Confidential Resources who do not have to report include those working in the Counseling Center, Health Center and the University Chaplain, Dr. Burt Burleson.
-
-## Students Needing Accommodations
 
 
 
