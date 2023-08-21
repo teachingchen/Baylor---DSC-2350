@@ -75,12 +75,18 @@ Plagiarism or any form of cheating involves a breach of student-teacher trust. T
 ## Use of Artificial Intelligence:
 All assignments should be your original work and should not be produced in part or in total with the assistance of artificial intelligence (for example, ChatGPT, Grammarly, or some other resource). Use of artificial intelligence without my explicit permission constitutes a violation of the Honor Code at Baylor University.
 
-##
+## Equity, Civil Rights, and Title IX:
+Baylor University does not tolerate unlawful harassment or discrimination on the basis of sex, gender, race, color, disability, national origin, ancestry, age (over 40), citizenship, genetic information or the refusal to submit to a genetic test, past, current, or prospective service in the uniformed services, or any other characteristic protected under applicable federal, Texas, or local law (collectively referred to as Protected Characteristics).
 
+If you or someone you know would like help related to an experience involving: 
+* Sexual or gender-based harassment, sexual assault, sexual exploitation, stalking, intimate partner violence, or retaliation for reporting one of these types of prohibited conduct, please visit [https://titleix.web.baylor.edu](https://titleix.web.baylor.edu) or contact us at (254) 710-8454, or TitleIX_Coordinator@baylor.edu.
+* Harassment (excluding those issues listed in #1) or adverse action based on Protected Characteristics, please visit [www.baylor.edu/civilrights](www.baylor.edu/civilrights), or contact us at (254) 710-7100 or Civil_Rights@baylor.edu.
 
+The Office of Equity and Title IX understands the sensitive nature of these situations and can provide information about available on- and off-campus resources, such as counseling and psychological services, medical treatment, academic support, university housing, and other forms of assistance that may be available. Staff members at the office can also explain your rights and procedural options. You will not be required to share your experience. If you or someone you know feels unsafe or may be in imminent danger, please call the Baylor Police Department (254-710-2222) or Waco Police Department (9-1-1) immediately.
 
+Except for Confidential Resources, all University Employees are designated Responsible Employees and thereby mandatory reporters of potential sexual and interpersonal misconduct violations. Confidential Resources who do not have to report include those working in the Counseling Center, Health Center and the University Chaplain, Dr. Burt Burleson.
 
-
+## Students Needing Accommodations
 
 
 
