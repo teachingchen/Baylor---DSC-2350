@@ -9,7 +9,7 @@ Location: Cashion Academic Center, C202
 ## Course Website:
 [https://teachingchen.github.io/DSC_2350/](https://teachingchen.github.io/DSC_2350/)
 
-## Testbook and Learning Materials:
+## Textbook and Learning Materials:
 There is no required textbook, but the following books may serve as useful references for different parts of the course.
 * Kenneth H. Rosen, “Discrete Mathematics and its Applications, 7th edition”, ISBN-13: 978-0073383095, [pdf](https://faculty.ksu.edu.sa/sites/default/files/rosen_discrete_mathematics_and_its_applications_7th_edition.pdf)
 * Margaret M. Fleck, “CSI173: Discrete Structures”, UIUC, [pdf](https://courses.engr.illinois.edu/cs173/fa2013/B-lecture/Lectures/)
