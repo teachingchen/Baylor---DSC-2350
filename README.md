@@ -35,12 +35,12 @@ C or better in CSI 1402 (Introduction to Programming II) or concurrent enrollmen
 This course is A-E graded, and the grades are determined based on graded assignments:
 * Exams: 40% 
 * Homework Assignments: 40%
-  ** For each homework, you can submit your answers up to 2 times.
-  ** First submission: Answer at least 50% of questions correctly.
-  ** One chance to make corrections.
-  ** The late submission policy is applied on the first submission.
-  ** After the first submission, you have one week to upload the second submission.
-  ** Grades are subject to the second submission.
+  - For each homework, you can submit your answers up to 2 times.
+  - First submission: Answer at least 50% of questions correctly.
+  - One chance to make corrections.
+  - The late submission policy is applied on the first submission.
+  - After the first submission, you have one week to upload the second submission.
+  - Grades are subject to the second submission.
 * Quizzes: 15% 
 * Attendance: 5% (Class attendance is required, refer to [here](https://rb.gy/6alrf))
 * Bonus: 10% (Extra on top of the final grade)
