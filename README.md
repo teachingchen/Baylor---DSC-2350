@@ -36,7 +36,7 @@ This course is A-E graded, and the grades are determined based on graded assignm
 * Exams: 40% 
 * Homework Assignments: 40%
 * Quizzes: 15% 
-* Attendance: 5% 
+* Attendance: 5% (Class attendance is required, refer to [here](https://catalog.baylor.edu/undergraduate/general-information/registration-course-load/#:~:text=for%20Summer%20dates).-,Class%20Attendance,-While%20Baylor%20University))
 * Bonus: 10% (Extra on top of the final grade)
 
 Your final grade will be based on a scale of 100 points:
@@ -72,10 +72,10 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 ## Academic Integrity:
 Plagiarism or any form of cheating involves a breach of student-teacher trust. This means that any work submitted under your name is expected to be your own, neither composed by anyone else as a whole or in part, nor handed over to another person for complete or partial revision. Be sure to document all ideas that are not your own. In addition, you must not provide course materials to other students, whether individually or generally (such as online) that would enable them to gain an unfair academic advantage. Instances of plagiarism or any other act of academic dishonesty will be reported to the Honor Council and may result in failure of the course. Not understanding plagiarism is not an excuse. I expect you, as a Baylor student, to be intimately familiar with the Honor Code at: [http://www.baylor.edu/honorcode/](http://www.baylor.edu/honorcode/)
 
+## Use of Artificial Intelligence:
+All assignments should be your original work and should not be produced in part or in total with the assistance of artificial intelligence (for example, ChatGPT, Grammarly, or some other resource). Use of artificial intelligence without my explicit permission constitutes a violation of the Honor Code at Baylor University.
 
-
-
-
+##
 
 
 
