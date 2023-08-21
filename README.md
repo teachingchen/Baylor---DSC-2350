@@ -44,7 +44,7 @@ This course is A-E graded, and the grades are determined based on graded assignm
 * Homework Assignments: 40%
   - For each homework, you can submit your answers up to 2 times.
   - Answer at least 50% of questions correctly for the 1st submission (Otherwise, no 2nd submission is allowed).
-  - Students have a 2nd chance to make corrections.
+  - Students have a 2nd chance to make corrections in a week.
   - The late submission policy is applied on the first submission.
   - After the first submission, you have one week to upload the second submission.
   - Grades are subject to the second submission.
