@@ -43,14 +43,15 @@ This course is A-E graded, and the grades are determined based on graded assignm
   - One exam will be given each month.
 * Homework Assignments: 40%
   - For each homework, you can submit your answers up to 2 times.
-  - First submission: Answer at least 50% of questions correctly, and students have one more chance to make corrections.
+  - Answer at least 50% of questions correctly for the 1st submission (Otherwise, no 2nd submission is allowed).
+  - Students have a 2nd chance to make corrections.
   - The late submission policy is applied on the first submission.
   - After the first submission, you have one week to upload the second submission.
   - Grades are subject to the second submission.
 * Quizzes: 15%
   - Randomly given in class.
 * Attendance: 5%
-  - Class attendance is required, refer to [here](https://rb.gy/6alrf).
+  - Class attendance is required. Refer to [here](https://rb.gy/6alrf).
 * Bonus: 10%
   - Extra on top of the final grade.
 
