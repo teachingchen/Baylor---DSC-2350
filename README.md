@@ -45,7 +45,7 @@ This course is A-E graded, and the grades are determined based on graded assignm
   - For each homework, you can submit your answers up to 2 times.
   - Answer at least 50% of questions correctly for the 1st submission (Otherwise, no 2nd submission is allowed).
   - Students have a 2nd chance to make corrections in a week.
-  - The late submission policy is applied on the first submission.
+  - The late submission policy (Refer to [Missed Exams, Homeworks, and Quizzes](https://teachingchen.github.io/DSC_2350/#:~:text=Missed%20Exams%2C%20Homeworks%2C%20and%20Quizzes%3A)) is applied to the first submission.
   - After the first submission, you have one week to upload the second submission. If the second submission cannot be completed within one week, the grade will be based on the first submission. 
   - Grades are subject to the second submission.
 * Quizzes: 15%
