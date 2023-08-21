@@ -99,9 +99,21 @@ Baylor University defines a first-generation college student as a student whose 
 ### Military Connected Students:
 Veterans, active-duty military personnel, and dependents are encouraged to connect with the [VETS](https://vets.web.baylor.edu/) program, a space dedicated to supporting our military-connected students. Please communicate, in advance, if possible, any special circumstances (e.g., upcoming deployment, drill requirements, disability accommodations).
 
+### Student Health Services:
+Baylor University is strongly committed to addressing the physical wellbeing and mental health of students by providing access to on-campus healthcare resources. [Baylor Health Services](https://healthservices.web.baylor.edu/) includes Primary Care, Psychiatry, Physical Therapy and Pharmacy and is staffed with fully certified and licensed physicians and nurse practitioners, as well as nurses and administrative staff. Appointments may be made by calling their main number or by logging into the health portal located on their website. Contact Information: (254) 710- 1010; Health_Services@baylor.edu.
 
+### Telehealth Services for Students:
+All Baylor students also have access to medical and counseling services via telehealth in addition to the on-campus services. Medical services include virtual urgent care, psychiatry, and nutrition counseling. Counseling services include 24/7/365 in-the-moment support and ongoing mental health counseling. Access to care is available in the evenings, during weekends, and when the University is closed. All services are free and unlimited to Baylor students. Please visit [https://baylor.academiclivecare.com/](https://baylor.academiclivecare.com/) for more information.
 
-
+### Mental Health Resources at Baylor University:
+* [The Counseling Center](https://counselingcenter.web.baylor.edu/)
+  - Connect with us for an initial appointment, goal-directed individual therapy, group therapy, nutritional counseling, and case management services. You can schedule your 30-minute initial appointment online through our health portal or by calling (254) 710-2467.
+* Telehealth by Academic Live Care (ALC)
+  - Baylor has partnered with Academic Live Care to provide free 24/7 telehealth mental health support, counseling, and even medical care, including psychiatry, nutritional counseling, and more. To get started visit [https://baylor.academiclivecare.com/](https://baylor.academiclivecare.com/) or call (833) 969-3998 for immediate support or to begin regular counseling appointments.
+* Join a mental health peer community - Togetherall
+  - Students can access the online peer-to-peer mental health resource, Togetherall for anonymous support and resources. Get [connected now](https://togetherall.com/en-us/)!
+* Suicide Hotline (24 hrs.)
+  - Call or text # 988 anytime for support.
 
 
 
