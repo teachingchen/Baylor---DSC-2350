@@ -77,23 +77,27 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 | 13       	| Graphs                                                  	                                    |                    	        |       	|
 | 14       	| Trees                                                 	                                    |               	        |       	|
       
-
-## Academic Integrity:
+## Some Policies:
+### Academic Integrity:
 Plagiarism or any form of cheating involves a breach of student-teacher trust. This means that any work submitted under your name is expected to be your own, neither composed by anyone else as a whole or in part, nor handed over to another person for complete or partial revision. Be sure to document all ideas that are not your own. In addition, you must not provide course materials to other students, whether individually or generally (such as online) that would enable them to gain an unfair academic advantage. Instances of plagiarism or any other act of academic dishonesty will be reported to the Honor Council and may result in failure of the course. Not understanding plagiarism is not an excuse. I expect you, as a Baylor student, to be intimately familiar with the Honor Code at: [http://www.baylor.edu/honorcode/](http://www.baylor.edu/honorcode/)
 
-## Use of Artificial Intelligence:
+### Use of Artificial Intelligence:
 All assignments should be your original work and should not be produced in part or in total with the assistance of artificial intelligence (for example, ChatGPT, Grammarly, or some other resource). Use of artificial intelligence without my explicit permission constitutes a violation of the Honor Code at Baylor University.
 
-## Students Needing Accommodations:
+### Students Needing Accommodations:
 Any student who needs academic accommodations related to a documented disability should inform me immediately at the beginning of the semester. You are required to obtain appropriate documentation and information regarding your accommodations from the Office of Access and Learning Accommodation (OALA). Stop by the first floor of Sid Richardson, East Wing in the Paul L. Foster Success Center or call (254) 710-3605 or email OALA@baylor.edu.
 
-## Academic Success:
+### Academic Success:
 I believe every student who has been admitted to Baylor can be successful, and I want to partner with you to help you thrive academically. Be sure to take advantage of the many resources available for academic success, including coming to see me during my office hours. Students who regularly utilize the great resources in the Paul L. Foster Success Center such as tutoring, Learning Lab, and Academic Mentoring are among my most successful students. If your academic performance in this class is substandard, I will submit an Academic Progress Report to the Success Center so that the team of coordinated care professionals can ensure that you get the help you need.
 
-## University Writing Center:
+### University Writing Center:
+I encourage you to visit the [University Writing Center (UWC)](https://uwc.artsandsciences.baylor.edu/) this semester and get feedback on your writing for this course. Located in Moody Library 2nd floor West, the UWC offers free assistance to you at any stage of the writing process (brainstorming, researching, outlining, drafting, revising, editing). In their feedback, the consultants focus on higher order concerns, such as content, thesis, evidence, and organization, before grammar or style. The UWC tutors will not proofread, edit, or write your paper for you, but they will equip you with a toolbox of strategies to improve your writing, research, and editing skills. Please take the assignment prompt, your paper/text, and other materials you might need with you to your appointment. Please include my name as the professor, and a report will automatically be sent to me after your session. Go to the website Office of VPFA 4 ([uwc.artsandsciences.baylor.edu](uwc.artsandsciences.baylor.edu)) to schedule an appointment, call the UWC at (254) 710- 4849, or stop by in person.
 
+### First Generation College Students:
+Baylor University defines a first-generation college student as a student whose parents did not complete a four-year college degree. The First in Line program is a support office for first-generation college students to utilize if they have any questions or concerns. Please check out [First in Line](https://firstinline.web.baylor.edu/), visit us in the Basement of Sid Richardson West Wing or email firstinline@baylor.edu. 
 
-
+### Military Connected Students:
+Veterans, active-duty military personnel, and dependents are encouraged to connect with the [VETS](https://vets.web.baylor.edu/) program, a space dedicated to supporting our military-connected students. Please communicate, in advance, if possible, any special circumstances (e.g., upcoming deployment, drill requirements, disability accommodations).
 
 
 
