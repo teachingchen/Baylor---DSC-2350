@@ -36,7 +36,7 @@ This course is A-E graded, and the grades are determined based on graded assignm
 * Exams: 40% 
 * Homework Assignments: 40%
 * Quizzes: 15% 
-* Attendance: 5% (Class attendance is required, refer to [here](https://catalog.baylor.edu/undergraduate/general-information/registration-course-load/#:~:text=for%20Summer%20dates).-,Class%20Attendance,-While%20Baylor%20University))
+* Attendance: 5% (Class attendance is required, refer to [here](https://rb.gy/6alrf)
 * Bonus: 10% (Extra on top of the final grade)
 
 Your final grade will be based on a scale of 100 points:
