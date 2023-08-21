@@ -77,7 +77,7 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 | 13       	| Graphs                                                  	                                    |                    	        |       	|
 | 14       	| Trees                                                 	                                    |               	        |       	|
       
-## Some Policies:
+## Some Policies and Services:
 ### Academic Integrity:
 Plagiarism or any form of cheating involves a breach of student-teacher trust. This means that any work submitted under your name is expected to be your own, neither composed by anyone else as a whole or in part, nor handed over to another person for complete or partial revision. Be sure to document all ideas that are not your own. In addition, you must not provide course materials to other students, whether individually or generally (such as online) that would enable them to gain an unfair academic advantage. Instances of plagiarism or any other act of academic dishonesty will be reported to the Honor Council and may result in failure of the course. Not understanding plagiarism is not an excuse. I expect you, as a Baylor student, to be intimately familiar with the Honor Code at: [http://www.baylor.edu/honorcode/](http://www.baylor.edu/honorcode/)
 
