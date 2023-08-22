@@ -28,7 +28,7 @@ Office: Hankamer 330.39
 Pratik Siwakoti\
 Graduate Assistant
 * Email: pratik_siwakoti1@baylor.edu
-* Office Hours: TBA (via Microsoft Teams)
+* Office Hours: Mondays and Tuesdays 12: 00 pm - 1:30 pm (via Microsoft Teams, **By appointment**)
 * Duties: Gradings (Homeworks, Quizzes, Exams)
 
 ## Course Description:
