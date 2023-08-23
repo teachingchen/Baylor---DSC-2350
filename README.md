@@ -70,7 +70,7 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 | Lectures  | Topics                                     	| Deliverables               	| Comments|
 |---------	|--------------------------------------------	|---------------------------	|-------	|
 | 1       	| Course Introduction                        	|   HW1                       |       	|
-| 2       	| Sets, Set Relations, and Set Functions      |                	            |       	|
+| 2       	| Sets                                        |                	            |       	|
 | 3       	| Functions                     	            |                           	|       	|
 | 4       	| Counting Theory                             |                       	    |       	|
 | 5       	| Mathematical Logic  	                      |                          	  |       	|
