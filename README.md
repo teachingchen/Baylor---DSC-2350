@@ -67,22 +67,22 @@ No makeup exams and quizzes will be given. Homeworks are due by midnight of the 
 
 ## Tentative Course Outline:
 
-| Lectures  | Topics                                     	| Deliverables               	| Comments|
-|---------	|--------------------------------------------	|---------------------------	|-------	|
-| 1       	| Course Introduction                        	|   HW1                       |       	|
-| 2       	| Sets                                        |                	            |       	|
-| 3       	| Functions                     	            |                           	|       	|
-| 4       	| Counting Theory                             |                       	    |       	|
-| 5       	| Mathematical Logic  	                      |                          	  |       	|
-| 6       	| Mathematical Induction and Proofs           |                  	          |       	|
-| 7       	| Probability                                 |                       	    |       	|
-| 8       	| Review of Python                            |                            	|       	|
-| 9       	| Sorting Algorithms             	            |                     	      |       	|
-| 10       	| Lists                                       |                            	|       	|
-| 11       	| Stacks and Queues              	            |                            	|       	|
-| 12       	| Recursion                                 	|                    	        |       	|
-| 13       	| Graphs                                      |                    	        |       	|
-| 14       	| Trees                                       |               	            |       	|
+| Lectures  | Topics                                     	|
+|---------	|--------------------------------------------	|
+| 1       	| Course Introduction                        	|
+| 2       	| Sets                                        |       
+| 3       	| Functions                     	            |  
+| 4       	| Counting Theory                             |    
+| 5       	| Discrete Probability  	                    |                      
+| 6       	| Mathematical Logic                          |                  	  
+| 7       	| Review of Python                            |                       
+| 8       	| Searching and Algorithm Analysis            |                  
+| 9       	| Sorting                        	            |                    
+| 10       	| Lists                                       |                         
+| 11       	| Stacks and Queues              	            |                     
+| 12       	| Trees                                       |               	   
+| 13       	| Graphs                                      |                    	 
+
       
 ## Some Policies and Services:
 ### Academic Integrity:
