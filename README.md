@@ -57,9 +57,9 @@ This course is A-E graded, and the grades are determined based on graded assignm
 
 Your final grade will be based on a scale of 100 points:
 
-| A      | A-    | B+    | B     | B-    | C+    | C     | C-    | D+    | D     | D-    | E    |
+| A      | A-    | B+    | B     | B-    | C+    | C     | C-    | D+    | D     | D-    | F    |
 |--------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|------|
-| 100-95 | 94-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 69-67 | 66-63 | 62-60 | 59-0 |
+| (100-94] | (94-90] | (90-87] | (87-83] | (83-80] | (80-77] | (77-73] | (73-70] | (70-67] | (67-63] | (62-60] | (60-0] |
 
 ## Missed Exams, Homeworks, and Quizzes:
 No makeup exams and quizzes will be given. Homeworks are due by midnight of the due date and are submitted on Canvas. Assignments are graded on a scale of 0 – 100, with a 10 points deduction per day late. Homeworks are not accepted and graded zero more than three days late.
